@@ -1,0 +1,17 @@
+#blog {
+    position: relative;
+    background-image: url('../image/Background_jaune_tiny.png');
+    background-repeat: repeat;
+    min-height: 100vh;
+    height: auto;
+    width: 100vw;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#carousel {
+    width: 500px;
+    background: red;
+}
